@@ -18,6 +18,10 @@ Bem-vindo ao Script de Suporte! Este script foi desenvolvido para automatizar ta
 
 - Windows (o script foi testado no Windows 10,11).
 
+## Canal do YouTube
+
+Confira também nosso canal no YouTube: [TcTI no YouTube](https://www.youtube.com/@TcTI).
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests para melhorar este script.
